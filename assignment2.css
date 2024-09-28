@@ -1,0 +1,58 @@
+h1{
+    color: purple;
+    text-align: center;
+}
+#div1 h2{
+    background-color: antiquewhite;
+    color: red;
+    padding: 5px;
+}
+#div1 p{
+    color: skyblue;
+    text-align: justify;
+}
+#div2 h2{
+    background-color: lavender;
+    color: orange;
+    padding: 5px;
+}
+#div2 p{
+    color: lightseagreen;
+    text-align: justify;
+}
+#div3 h2{
+    background-color: burlywood;
+    color: crimson;
+    padding: 5px;
+}
+#div3 p{
+    color: skyblue;
+    text-align: justify;
+}
+#div4 h2{
+    background-color: darkgray;
+    color: gold;
+    padding: 5px;
+}
+#div4 p{
+    color: lightseagreen;
+    text-align: justify;
+}
+#div5 h2{
+    background-color: darksalmon;
+    color: darkblue;
+    padding: 5px;
+}
+#div5 p{
+    color: skyblue;
+    text-align: justify;
+}
+#div6 h2{
+    background-color: lightpink;
+    color: yellow;
+    padding: 5px;
+}
+#div6 p{
+    color: lightseagreen;
+    text-align: justify;
+}

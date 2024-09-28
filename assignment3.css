@@ -1,0 +1,17 @@
+div{
+    padding-left: 40px;
+}
+h1{
+    text-decoration: underline;
+    text-align: center;
+    color: orange;
+    text-decoration-color: red;
+}
+tr,td{
+    padding: 10px;
+}
+ul{
+    list-style-type: none;
+    padding: 5px;
+    font-size: 20px;
+}

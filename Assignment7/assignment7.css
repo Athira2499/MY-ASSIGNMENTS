@@ -1,0 +1,19 @@
+
+th,td{
+    border: 1px solid red;
+}
+td{
+    background-color: rgb(250, 235, 215);
+}
+table{
+    width: 50%;
+    border-collapse: separate;
+    border: 2px solid red;
+    margin: auto;
+}
+thead{
+    background-color: rgb(255, 230, 0);
+    color: purple;
+    height: 80px; 
+    font-size: larger;
+}

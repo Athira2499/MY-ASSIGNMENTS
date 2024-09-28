@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(224, 127, 127);
+}
+h1{
+    color: antiquewhite;
+}
+h2{
+    color: purple;
+}
+h3{
+    color: blue;
+}
+caption{
+    color: rgb(255, 255, 0);
+}
+th{
+    background-color: purple;
+    color: white;
+}
+th,td{
+    border: 1px solid black;
+    height: 30px;
+    font-size: larger;
+}
+table{
+width: 50%;
+border-collapse: collapse;
+border: 2px solid black;
+margin: auto;
+}
+#id1{
+    background-color: burlywood;
+    color: purple;
+}
+#id2{
+    background-color: antiquewhite;
+    color: red;
+}
